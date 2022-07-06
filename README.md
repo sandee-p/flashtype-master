@@ -1,4 +1,4 @@
-Flash Type https://shikhar-flashtype.netlify.app/
+Flash Type https://sandeep-flashtype.netlify.app/
 
 A simple typing speed test application
 
